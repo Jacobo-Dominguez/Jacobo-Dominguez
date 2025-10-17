@@ -8,6 +8,11 @@
 ---
 ## 💻 Tecnologías y Herramientas
 
+- Lenguajes: Java, PHP, JavaScript, SQL
+- Frameworks: JavaFX, Android Studio, Bootstrap
+- Bases de datos: MySQL, Firestore
+- Otros: Git, GitHub, Visual Studio Code, IntelliJ IDEA
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
