@@ -14,9 +14,6 @@
 - **Bases de datos:** MySQL, Firestore  
 - **Otros:** Git, GitHub, Visual Studio Code, IntelliJ IDEA
 
-## 💻 Tecnologías y herramientas
-Java JavaScript HTML5 CSS3 MySQL AI Tools / Machine Learning Git GitHub 
-
 ---
 
 ## 📚 Repositorios destacados
@@ -24,8 +21,8 @@ Java JavaScript HTML5 CSS3 MySQL AI Tools / Machine Learning Git GitHub
 | Proyecto | Descripción | Enlace |
 |-----------|--------------|--------|
 | 💼 **Jacobo-DAM** | Repositorio con todos los proyectos del segundo curso del Grado DAM. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/Jacobo-DAM) |
-| 🎵 **ProyectoWeb-Obsidian-Music** – Plataforma web musical para explorar artistas y escuchar canciones. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/ProyectoWeb_Obsidian) |
-| 🎮 **GameJava-NoirCity** – App simulando steam con base de datos MySQL. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/AppBBDD) |
+| 🎵 **ProyectoWeb-Obsidian-Music** | Plataforma web musical para explorar artistas y escuchar canciones. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/ProyectoWeb_Obsidian) |
+| 🎮 **AppBDD** | App simulando steam con base de datos MySQL. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/AppBBDD) |
 
 
 
@@ -33,7 +30,7 @@ Java JavaScript HTML5 CSS3 MySQL AI Tools / Machine Learning Git GitHub
 
 ## 📫 Contacto
 
-📧 *(Añade aquí tu correo si quieres)*  
-🌐 [Tu LinkedIn o portfolio si lo tienes]()
+📧 *jacobo9810@gmail.com o jacdommor@gmail.com*  
+🌐 LinkedIn (https://www.linkedin.com/in/jacobo-luis-dominguez-morales-74340535b/)
 
 ---
