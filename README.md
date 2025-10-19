@@ -8,7 +8,7 @@
 ---
 ## 💻 Tecnologías y Herramientas
 
-- Lenguajes: Java, PHP, JavaScript, SQL
+- Lenguajes: Java, Pyhon, PHP, JavaScript, SQL, C#
 - Frameworks: JavaFX, Android Studio, Bootstrap
 - Bases de datos: MySQL, Firestore
 - Otros: Git, GitHub, Visual Studio Code, IntelliJ IDEA
@@ -31,7 +31,7 @@
 
 | Proyecto | Descripción | Enlace |
 |-----------|--------------|--------|
-| 💼 **Jacobo-DAM** | Repositorio con todos los proyectos del segundo curso del Grado DAM. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/Jacobo-DAM) |
+| 💼 **Jacobo-DAM** | Repositorio con todos los proyectos del primer y segundo curso del Grado DAM. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/Jacobo-DAM) |
 | 🎵 **ProyectoWeb-Obsidian-Music** | Plataforma web musical para explorar artistas y escuchar canciones. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/ProyectoWeb_Obsidian) |
 | 🎮 **AppBDD** | App simulando steam con base de datos MySQL. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/AppBBDD) |
 
