@@ -9,7 +9,7 @@
 ## 💻 Tecnologías y Herramientas
 
 - Lenguajes: Java, Pyhon, PHP, JavaScript, SQL, C#
-- Frameworks: JavaFX, Android Studio, Bootstrap
+- Frameworks: JavaFX, Bootstrap
 - Bases de datos: MySQL, Firestore
 - Otros: Git, GitHub, Visual Studio Code, IntelliJ IDEA
 
@@ -18,11 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Android Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firestore"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="Visual Studio Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="Visual Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/pycharm-original.svg" width="45" height="45" alt="PyCharm"/>
 </p>
 
 ---
@@ -34,7 +34,8 @@
 | 💼 **Jacobo-DAM** | Repositorio con todos los proyectos del primer y segundo curso del Grado DAM. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/Jacobo-DAM) |
 | 🎵 **ProyectoWeb-Obsidian-Music** | Plataforma web musical para explorar artistas y escuchar canciones. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/ProyectoWeb_Obsidian) |
 | 🎮 **AppBDD** | App simulando steam con base de datos MySQL. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/AppBBDD) |
-
+| 🗒️ **BlogPersonal** | Web simulando un blog personal en PHP. | [Ver repositorio →]([https://github.com/Jacobo-Dominguez/AppBBDD](https://github.com/Jacobo-Dominguez/JacoboDAM/tree/main/Optativa%20(PHP)/BlogPersonal)) |
+| 🗒️ **Gymforthemoment** | App de gestion de un gimnasio en Python. | [Ver repositorio →]([https://github.com/Jacobo-Dominguez/Jacobo-DAM/tree/main/Sistema%20de%20Gestion%20(Python)/Gymforthemoment]) |
 
 
 ---
