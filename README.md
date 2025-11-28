@@ -36,6 +36,7 @@
 | 🎮 **AppBDD** | App simulando steam con base de datos MySQL. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/AppBBDD) |
 | 🗒️ **BlogPersonal** | Web simulando un blog personal en PHP. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/Jacobo-DAM/tree/main/Optativa%20(PHP)/BlogPersonal) |
 | 🗒️ **Gymforthemoment** | App de gestion de un gimnasio en Python. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/Jacobo-DAM/tree/main/Sistema%20de%20Gestion%20(Python)/Gymforthemoment) |
+| 🏫👶🏻 **ProyectoLalala** | App de juegos para escuela infantil. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/ProyectoLalala) |
 
 
 ---
