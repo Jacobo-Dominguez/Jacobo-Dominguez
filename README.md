@@ -34,8 +34,7 @@
 | 💼 **Jacobo-DAM** | Repositorio con todos los proyectos del 1º y 2º curso del Grado de FP de Desarrollo de Aplicaciones Multiplataforma (DAM). | [Ver repositorio →](https://github.com/Jacobo-Dominguez/Jacobo-DAM) |
 | 🎵 **ProyectoWeb-Obsidian-Music** | Plataforma web musical para explorar artistas y escuchar canciones. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/ProyectoWeb_Obsidian) |
 | 🎮 **AppBDD** | App simulando steam con base de datos MySQL. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/AppBBDD) |
-| 🗒️ **BlogPersonal** | Web simulando un blog personal en PHP. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/BlogPersonal_PHP)|
-[Ver repositorio con commits →](https://github.com/Jacobo-Dominguez/Jacobo-DAM/tree/main/Optativa%20(PHP)/BlogPersonal) 
+| 🗒️ **BlogPersonal** | Web simulando un blog personal en PHP. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/BlogPersonal_PHP) [Ver repositorio con commits →](https://github.com/Jacobo-Dominguez/Jacobo-DAM/tree/main/Optativa%20(PHP)/BlogPersonal) |
 | 🗒️ **Gymforthemoment** | App de gestion de un gimnasio en Python. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/Jacobo-DAM/tree/main/Sistema%20de%20Gestion%20(Python)/Gymforthemoment) |
 | 🏫👶🏻 **ProyectoLalala** | App de juegos para escuela infantil. | [Ver repositorio →](https://github.com/Jacobo-Dominguez/ProyectoLalala) |
 
